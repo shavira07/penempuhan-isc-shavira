@@ -1,2 +1,0 @@
-# penempuhan-isc-shavira
-web
